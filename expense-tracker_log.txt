@@ -326,3 +326,4 @@ Add API for expenses completed on 2024-08-18 22:42:48
 Set up DynamoDB table completed on 2024-05-05 22:42:48
 Complete README completed on 2024-01-26 22:42:48
 Set up DynamoDB table completed on 2024-07-06 22:42:48
+Add API for expenses completed on 2024-03-05 22:42:48
