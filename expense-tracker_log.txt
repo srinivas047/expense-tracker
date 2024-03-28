@@ -943,3 +943,4 @@ Add API for expenses completed on 2024-12-03 22:43:06
 Add API for expenses completed on 2024-08-27 22:43:06
 Set up DynamoDB table completed on 2024-12-13 22:43:06
 Write unit tests completed on 2024-06-29 22:43:06
+Set up DynamoDB table completed on 2024-03-27 22:43:06
