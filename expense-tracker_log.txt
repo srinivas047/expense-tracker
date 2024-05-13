@@ -1705,3 +1705,4 @@ Add API for expenses completed on 2024-05-14 22:47:41
 Add API for expenses completed on 2024-05-12 22:47:41
 Write unit tests completed on 2024-01-19 22:47:42
 Write unit tests completed on 2024-10-19 22:47:42
+Set up DynamoDB table completed on 2024-05-12 22:47:42
