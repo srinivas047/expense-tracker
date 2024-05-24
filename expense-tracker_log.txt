@@ -764,3 +764,4 @@ Write unit tests completed on 2024-07-10 22:43:01
 Write unit tests completed on 2024-02-28 22:43:01
 Add API for expenses completed on 2024-07-07 22:43:01
 Write unit tests completed on 2024-08-30 22:43:01
+Set up DynamoDB table completed on 2024-05-23 22:43:01
