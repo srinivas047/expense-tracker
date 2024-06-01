@@ -808,3 +808,4 @@ Add API for expenses completed on 2024-08-22 22:43:02
 Add API for expenses completed on 2024-08-07 22:43:02
 Complete README completed on 2024-01-30 22:43:02
 Initialize repository completed on 2024-06-06 22:43:02
+Set up DynamoDB table completed on 2024-05-31 22:43:02
