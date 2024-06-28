@@ -485,3 +485,4 @@ Set up DynamoDB table completed on 2024-03-01 22:42:53
 Complete README completed on 2025-01-10 22:42:53
 Add API for expenses completed on 2024-08-14 22:42:53
 Initialize repository completed on 2024-09-12 22:42:53
+Set up DynamoDB table completed on 2024-06-27 22:42:53
