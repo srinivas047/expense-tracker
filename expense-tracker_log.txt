@@ -1743,3 +1743,4 @@ Write unit tests completed on 2024-10-12 22:47:42
 Add API for expenses completed on 2024-09-21 22:47:42
 Set up DynamoDB table completed on 2024-01-19 22:47:43
 Complete README completed on 2024-01-25 22:47:43
+Add API for expenses completed on 2024-07-18 22:47:43
