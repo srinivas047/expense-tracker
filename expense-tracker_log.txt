@@ -77,3 +77,4 @@ Set up DynamoDB table completed on 2024-12-06 22:42:42
 Complete README completed on 2024-03-26 22:42:42
 Set up DynamoDB table completed on 2024-03-02 22:42:42
 Write unit tests completed on 2024-12-19 22:42:42
+Add API for expenses completed on 2024-07-26 22:42:42
