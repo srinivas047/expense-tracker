@@ -123,3 +123,4 @@ Set up DynamoDB table completed on 2024-09-26 22:42:43
 Set up DynamoDB table completed on 2024-02-18 22:42:43
 Add API for expenses completed on 2024-10-23 22:42:43
 Initialize repository completed on 2024-08-04 22:42:43
+Write unit tests completed on 2024-09-07 22:42:43
