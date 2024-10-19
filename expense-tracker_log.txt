@@ -899,3 +899,4 @@ Complete README completed on 2024-12-07 22:43:05
 Complete README completed on 2024-05-29 22:43:05
 Set up DynamoDB table completed on 2024-12-18 22:43:05
 Add API for expenses completed on 2024-06-18 22:43:05
+Write unit tests completed on 2024-10-18 22:43:05
