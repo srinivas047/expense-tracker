@@ -408,3 +408,4 @@ Add API for expenses completed on 2024-10-26 22:42:50
 Add API for expenses completed on 2024-12-11 22:42:50
 Write unit tests completed on 2024-01-22 22:42:51
 Complete README completed on 2024-11-16 22:42:51
+Add API for expenses completed on 2024-11-01 22:42:51
