@@ -1445,3 +1445,4 @@ Add API for expenses completed on 2024-04-23 22:47:34
 Set up DynamoDB table completed on 2024-11-30 22:47:34
 Set up DynamoDB table completed on 2024-04-24 22:47:34
 Add API for expenses completed on 2024-12-07 22:47:34
+Add API for expenses completed on 2024-11-14 22:47:34
