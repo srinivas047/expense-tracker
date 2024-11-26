@@ -521,3 +521,4 @@ Add API for expenses completed on 2024-07-26 22:42:54
 Add API for expenses completed on 2024-04-25 22:42:54
 Initialize repository completed on 2024-05-24 22:42:54
 Set up DynamoDB table completed on 2024-05-06 22:42:54
+Write unit tests completed on 2024-11-25 22:42:54
