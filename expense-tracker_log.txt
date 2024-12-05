@@ -565,3 +565,4 @@ Complete README completed on 2024-10-06 22:42:56
 Add API for expenses completed on 2024-01-19 22:42:56
 Complete README completed on 2024-11-05 22:42:56
 Complete README completed on 2024-01-13 22:42:56
+Write unit tests completed on 2024-12-04 22:42:56
