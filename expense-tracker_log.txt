@@ -1714,3 +1714,4 @@ Set up DynamoDB table completed on 2024-06-22 22:47:42
 Set up DynamoDB table completed on 2024-06-09 22:47:42
 Complete README completed on 2024-06-12 22:47:42
 Complete README completed on 2024-08-29 22:47:42
+Add API for expenses completed on 2025-01-10 22:47:42
